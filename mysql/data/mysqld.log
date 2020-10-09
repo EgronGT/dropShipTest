@@ -1,0 +1,22 @@
+2020-10-09T09:10:25.966903Z 0 [System] [MY-013169] [Server] C:\Users\EgronGT\Desktop\WORDPR~1\mysql\bin\mysqld.exe (mysqld 8.0.21) initializing of server in progress as process 7888
+2020-10-09T09:10:25.981971Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-10-09T09:10:26.781514Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-10-09T09:10:28.134133Z 0 [Warning] [MY-010161] [Server] You need to use --log-bin to make --binlog-expire-logs-seconds work.
+2020-10-09T09:10:28.655370Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2020-10-09T09:10:31.041487Z 0 [System] [MY-010116] [Server] C:\Users\EgronGT\Desktop\WORDPR~1\mysql\bin\mysqld.exe (mysqld 8.0.21) starting as process 10644
+2020-10-09T09:10:31.059265Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-10-09T09:10:31.430001Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-10-09T09:10:31.619183Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-10-09T09:10:31.761199Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-10-09T09:10:31.762536Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2020-10-09T09:10:31.823614Z 0 [System] [MY-010931] [Server] C:\Users\EgronGT\Desktop\WORDPR~1\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.21'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-10-09T09:11:12.727551Z 12 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.21).
+2020-10-09T09:11:12.730335Z 0 [System] [MY-013105] [Server] C:\Users\EgronGT\Desktop\WORDPR~1\mysql\bin\mysqld.exe: Normal shutdown.
+2020-10-09T09:11:13.762859Z 0 [System] [MY-010910] [Server] C:\Users\EgronGT\Desktop\WORDPR~1\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.21)  MySQL Community Server - GPL.
+2020-10-09T09:11:53.288551Z 0 [System] [MY-010116] [Server] C:\Users\EgronGT\Desktop\WORDPR~1\mysql\bin\mysqld.exe (mysqld 8.0.21) starting as process 10980
+2020-10-09T09:11:53.300924Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-10-09T09:11:53.637015Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-10-09T09:11:53.777470Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-10-09T09:11:53.835264Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-10-09T09:11:53.836018Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2020-10-09T09:11:53.895620Z 0 [System] [MY-010931] [Server] C:\Users\EgronGT\Desktop\WORDPR~1\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.21'  socket: ''  port: 3306  MySQL Community Server - GPL.

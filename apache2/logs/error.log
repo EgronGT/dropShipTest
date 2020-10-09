@@ -1,0 +1,36 @@
+[Fri Oct 09 11:12:03.201072 2020] [ssl:warn] [pid 8684:tid 724] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 09 11:12:03.275878 2020] [ssl:warn] [pid 8684:tid 724] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 09 11:12:03.351135 2020] [mpm_winnt:notice] [pid 8684:tid 724] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Fri Oct 09 11:12:03.351135 2020] [mpm_winnt:notice] [pid 8684:tid 724] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Fri Oct 09 11:12:03.351135 2020] [core:notice] [pid 8684:tid 724] AH00094: Command line: 'C:\\Users\\EgronGT\\Desktop\\WORDPR~1\\apache2\\bin\\httpd.exe -d C:/Users/EgronGT/Desktop/Wordpress/apache2 -f C:\\Users\\EgronGT\\Desktop\\WORDPR~1\\apache2\\conf\\httpd.conf'
+[Fri Oct 09 11:12:03.357125 2020] [mpm_winnt:notice] [pid 8684:tid 724] AH00418: Parent: Created child process 12788
+[Fri Oct 09 11:12:03.780984 2020] [ssl:warn] [pid 12788:tid 648] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 09 11:12:03.816888 2020] [ssl:warn] [pid 12788:tid 648] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 09 11:12:03.835838 2020] [mpm_winnt:notice] [pid 12788:tid 648] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 09 11:12:10.650101 2020] [mpm_winnt:notice] [pid 8684:tid 724] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 09 11:12:12.652194 2020] [mpm_winnt:notice] [pid 12788:tid 648] AH00364: Child: All worker threads have exited.
+[Fri Oct 09 11:12:12.673065 2020] [mpm_winnt:notice] [pid 8684:tid 724] AH00430: Parent: Child process 12788 exited successfully.
+[Fri Oct 09 11:12:14.500629 2020] [ssl:warn] [pid 15192:tid 720] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 09 11:12:14.540500 2020] [ssl:warn] [pid 15192:tid 720] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 09 11:12:14.558478 2020] [mpm_winnt:notice] [pid 15192:tid 720] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Fri Oct 09 11:12:14.558478 2020] [mpm_winnt:notice] [pid 15192:tid 720] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Fri Oct 09 11:12:14.558478 2020] [core:notice] [pid 15192:tid 720] AH00094: Command line: 'C:\\Users\\EgronGT\\Desktop\\WORDPR~1\\apache2\\bin\\httpd.exe -d C:/Users/EgronGT/Desktop/Wordpress/apache2 -f C:\\Users\\EgronGT\\Desktop\\WORDPR~1\\apache2\\conf\\httpd.conf'
+[Fri Oct 09 11:12:14.561439 2020] [mpm_winnt:notice] [pid 15192:tid 720] AH00418: Parent: Created child process 6000
+[Fri Oct 09 11:12:14.835221 2020] [ssl:warn] [pid 6000:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 09 11:12:14.871111 2020] [ssl:warn] [pid 6000:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 09 11:12:14.892066 2020] [mpm_winnt:notice] [pid 6000:tid 644] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 09 11:12:24.282060 2020] [mpm_winnt:notice] [pid 15192:tid 720] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 09 11:12:26.283602 2020] [mpm_winnt:notice] [pid 6000:tid 644] AH00364: Child: All worker threads have exited.
+[Fri Oct 09 11:12:26.324938 2020] [mpm_winnt:notice] [pid 15192:tid 720] AH00430: Parent: Child process 6000 exited successfully.
+[Fri Oct 09 11:12:28.116664 2020] [ssl:warn] [pid 7000:tid 688] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 09 11:12:28.154034 2020] [ssl:warn] [pid 7000:tid 688] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 09 11:12:28.169020 2020] [mpm_winnt:notice] [pid 7000:tid 688] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 configured -- resuming normal operations
+[Fri Oct 09 11:12:28.169020 2020] [mpm_winnt:notice] [pid 7000:tid 688] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Fri Oct 09 11:12:28.169020 2020] [core:notice] [pid 7000:tid 688] AH00094: Command line: 'C:\\Users\\EgronGT\\Desktop\\WORDPR~1\\apache2\\bin\\httpd.exe -d C:/Users/EgronGT/Desktop/Wordpress/apache2 -f C:\\Users\\EgronGT\\Desktop\\WORDPR~1\\apache2\\conf\\httpd.conf'
+[Fri Oct 09 11:12:28.171988 2020] [mpm_winnt:notice] [pid 7000:tid 688] AH00418: Parent: Created child process 7192
+[Fri Oct 09 11:12:28.451424 2020] [ssl:warn] [pid 7192:tid 636] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 09 11:12:28.488290 2020] [ssl:warn] [pid 7192:tid 636] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 09 11:12:28.505277 2020] [mpm_winnt:notice] [pid 7192:tid 636] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 09 11:15:27.571233 2020] [php7:warn] [pid 7192:tid 1240] [client 127.0.0.1:64352] PHP Warning:  Use of undefined constant STAGS_OPTIONS_NAME - assumed 'STAGS_OPTIONS_NAME' (this will throw an Error in a future version of PHP) in C:\\Users\\EgronGT\\Desktop\\Wordpress\\apps\\wordpress\\htdocs\\wp-content\\plugins\\simple-tags\\uninstall.php on line 9, referer: http://127.0.0.1/wordpress/wp-admin/plugins.php
+[Fri Oct 09 11:15:27.571233 2020] [php7:warn] [pid 7192:tid 1240] [client 127.0.0.1:64352] PHP Warning:  Use of undefined constant STAGS_OPTIONS_NAME - assumed 'STAGS_OPTIONS_NAME' (this will throw an Error in a future version of PHP) in C:\\Users\\EgronGT\\Desktop\\Wordpress\\apps\\wordpress\\htdocs\\wp-content\\plugins\\simple-tags\\uninstall.php on line 10, referer: http://127.0.0.1/wordpress/wp-admin/plugins.php
+[Fri Oct 09 11:15:27.571233 2020] [php7:warn] [pid 7192:tid 1240] [client 127.0.0.1:64352] PHP Warning:  Use of undefined constant STAGS_OPTIONS_NAME_AUTO - assumed 'STAGS_OPTIONS_NAME_AUTO' (this will throw an Error in a future version of PHP) in C:\\Users\\EgronGT\\Desktop\\Wordpress\\apps\\wordpress\\htdocs\\wp-content\\plugins\\simple-tags\\uninstall.php on line 12, referer: http://127.0.0.1/wordpress/wp-admin/plugins.php
